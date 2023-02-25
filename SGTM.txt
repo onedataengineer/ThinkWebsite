@@ -1,3 +1,7 @@
 To create POC for Server side Google tag manager setup
 Will be using this URL to test the traffic on GTM server
 And will be on google cloud platform
+
+reference:
+https://www.simoahava.com/analytics/server-side-tagging-google-tag-manager/#full-control-and-ownership-of-the-data-collected-by-the-container
+
